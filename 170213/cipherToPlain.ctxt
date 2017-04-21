@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=ciphertext2
+comment0.target=int[]\ cipherToPlainKeyL(java.lang.String)
+comment1.params=keyLengths\ ciphertext2
+comment1.target=java.lang.String\ cipherToPlainKey(int[],\ java.lang.String)
+comment2.params=ciphertext2\ key
+comment2.target=java.lang.String[]\ ctpDecrypt(java.lang.String,\ java.lang.String)
+comment3.params=ciphertext2\ key\ returned
+comment3.target=java.lang.String[]\ ctpDecrypt(java.lang.String,\ java.lang.String,\ java.lang.String[])
+numComments=4

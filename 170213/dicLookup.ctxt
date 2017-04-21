@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=plaintext
+comment0.target=java.lang.String\ dicLookup(java.lang.String)
+comment1.params=input\ dictLook\ found\ outputs
+comment1.target=void\ search(java.lang.String,\ java.util.Set,\ java.util.Stack,\ java.util.List)
+numComments=2
